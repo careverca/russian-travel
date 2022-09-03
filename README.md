@@ -14,4 +14,4 @@
 ## Скриншоты
 ![alt text](https://github.com/careverca/russian-travel/tree/main/scr/1.png)
 ![alt text](https://github.com/careverca/russian-travel/tree/main/scr/2.png)
-![alt text](https://github.com/careverca/russian-travel/tree/main/scr/3.png)
+![alt text](https://raw.githubusercontent.com/careverca/russian-travel/main/scr/3.png?token=GHSAT0AAAAAABWZ2S3HZTP4JHJWYGU5Q3TCYYTD5TA))
