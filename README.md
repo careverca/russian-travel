@@ -11,3 +11,7 @@
 - Чистая вёрстка: только `HTML & CSS`, никакого `Javascript`.
 - Аккуратно подобраны самые красивые фотографии с unsplash.
 
+## Скриншоты
+![enter image description here](https://ibb.co/kgHKvrz)
+![enter image description here](https://ibb.co/YkSxSZr)
+![enter image description here](https://ibb.co/7bbRbWZ)
