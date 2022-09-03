@@ -12,6 +12,6 @@
 - Аккуратно подобраны самые красивые фотографии с unsplash.
 
 ## Скриншоты
-![enter image description here](https://ibb.co/kgHKvrz)
-![enter image description here](https://ibb.co/YkSxSZr)
-![enter image description here](https://ibb.co/7bbRbWZ)
+![alt text](https://github.com/careverca/russian-travel/tree/main/scr/1.png?raw=true)
+![alt text](https://github.com/careverca/russian-travel/tree/main/scr/2.png?raw=true)
+![alt text](https://github.com/careverca/russian-travel/tree/main/scr/3.png?raw=true)
