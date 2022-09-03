@@ -12,7 +12,7 @@
 - Аккуратно подобраны самые красивые фотографии с unsplash.
 
 ## Скриншоты
-![alt text](https://raw.githubusercontent.com/careverca/russian-travel/main/scr/1.png?token=GHSAT0AAAAAABWZ2S3GK3CYXZEXYGHIVNQWYYTD65A)
+![alt text](russian-travel/scr/1.png)
 
 Технология __grid__:
 ![alt text](https://raw.githubusercontent.com/careverca/russian-travel/0a1cb6776a7c8eb0a79cb2730049448b3b797295/scr/2.png?token=GHSAT0AAAAAABWZ2S3G42UZHJSWYT6X6I3SYYTEAJA)
