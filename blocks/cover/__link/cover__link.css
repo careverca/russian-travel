@@ -1,8 +1,13 @@
 .cover__link {
-    display: block;
-    margin: 0;
-    position: relative;
     width: 100%;
+    display: block;
+    box-sizing: border-box;
+    position: relative;
+    padding-bottom: 62.5%;
+    background-image: url(/images/cover-trains.jpg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+
 }
 
 .cover__link:hover > .cover__overlay {
