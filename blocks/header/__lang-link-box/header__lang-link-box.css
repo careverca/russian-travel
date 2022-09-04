@@ -1,12 +1,6 @@
 .header__lang-link-box {
-    height: 100%;
-    margin: 28px 48px 0 0;
     display: flex;
+    align-self: stretch;
     align-items: flex-end;
-}
-
-@media screen and (max-width: 320px) {
-.header__lang-link-box {
-    margin: 16px 16px 0 0;
-}
+    margin: 0 0 6px 0;
 }
