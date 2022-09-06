@@ -1,16 +1,10 @@
 .cover__link {
     width: 100%;
-    display: block;
-    box-sizing: border-box;
-    position: relative;
-    padding-bottom: 62.5%;
-    background-image: url(/images/cover-trains.jpg);
-    background-size: 100% auto;
-    background-repeat: no-repeat;
-
+    grid-area: 1/-1;
+    z-index: 1;
 }
 
-.cover__link:hover > .cover__overlay {
+.cover__link:hover + .cover__overlay {
     background: rgba(41, 43, 46, 0.8);
 
 }
