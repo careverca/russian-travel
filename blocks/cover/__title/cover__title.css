@@ -10,7 +10,8 @@
     color: #FFFFFF;
 }
 
-@media screen and (max-width: 320px) {
+/* Making smaller text here (320px alike) here, bc font-size of 72px would too much space */
+@media screen and (max-width: 722px) {
     .cover__title {
         font-size: 32px;
         line-height: 35px;
