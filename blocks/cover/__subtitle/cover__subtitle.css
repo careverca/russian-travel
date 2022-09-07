@@ -18,5 +18,14 @@
         font-size: 14px;
         line-height: 16px;
         margin: 16px auto 0 auto;
+        padding: 0 25% 0 25%;
+        box-sizing: border-box;
+    }
+}
+
+
+@media screen and (max-width: 396px) {
+    .cover__subtitle {
+        padding: 0 20% 0 20%;
     }
 }
