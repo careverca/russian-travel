@@ -1,13 +1,17 @@
 .cover__text {
-    width: 560px;
-    
+    width: 100%;
     text-align: center;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     color: #FFFFFF;
+    grid-area: 1/-1;
+    text-decoration: none;
+    z-index: 1;
+    box-sizing: border-box;
 }
 
-@media screen and (max-width: 320px) {
-    .cover__text {
-        width: 90%;
-    }
+.cover__text:hover + .cover__overlay {
+    background: rgba(41, 43, 46, 0.8);
+
 }

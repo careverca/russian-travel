@@ -11,7 +11,7 @@
 
 @media screen and (max-width: 1024px) {
     .place {
-        grid-template-columns: 440px 1fr;
+        grid-template-columns: 440fr 456fr;
         column-gap: 32px;
     }
 }
@@ -24,7 +24,8 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+/* Making 1-column list (320px alike) here, bc 2-columns would take to much space */
+@media screen and (max-width: 680px) {
     .place {
         margin: 0 0 50px 0;
         grid-template-columns: 1fr;
