@@ -15,16 +15,16 @@
     }
 }
 
-/* @media screen and (max-width: 768px) {
+@media screen and (max-width: 722px) {
     .lead__title{
-        width: 100%;
-        font-size: 12.5vw;
+        width: auto;
+        font-size: 55px;
+        line-height: 60px;
     }
-} */
+}
 
 @media screen and (max-width: 320px) {
     .lead__title {
-        width: auto;
         margin: 48px 16px 0 16px;
         font-size: 40px;
         line-height: 44px;
