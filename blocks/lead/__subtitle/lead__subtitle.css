@@ -11,14 +11,15 @@
 
 @media screen and (max-width: 722px) {
     .lead__subtitle{
-        width: auto;
+        width: 100%;
         font-size: 19px;
         line-height: 22px;
         padding: 0 6% 0 6%;
+        box-sizing: border-box;
     }
 }
 
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 444px) {
     .lead__subtitle {
         margin: 16px 16px 0 16px;
         padding: 0;
